@@ -1,0 +1,7 @@
+{
+  "name": "God Delight Prop Hub",
+  "description": "A comprehensive real estate and hospitality marketplace for Nigeria. Partners can list properties and hotel rooms, while AI monitors authenticity and security. Features GPS integration and a curated connection system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
